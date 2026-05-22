@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[rust]": {
+        "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    },
+    "github.copilot.enable": {
+        "*": false,
+    },
+}
